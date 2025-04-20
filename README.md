@@ -23,8 +23,8 @@ This project demonstrates the use of threads in Java using a simple program. Eac
 
 ## Author  
 **Name**: Arjun  
-**PRN**: 230701260XX  
-**Batch**: A2  
+**PRN**: 23070126026  
+**Batch**: A1
 
 ---
 
@@ -41,11 +41,6 @@ Thread Two - Character: C
 Thread Three - Square: 9
 ...
 
-yaml
-Copy
-Edit
-
----
 
 ## Note  
 - Each thread runs independently and outputs may interleave.
